@@ -1,1 +1,1 @@
-#Loan Calculator App using materialize and Vanilla JS
+# Loan Calculator App using materialize and Vanilla JS
