@@ -1,0 +1,7 @@
+body {
+  font-family: "Libre Franklin", sans-serif;
+}
+#loading,
+#results {
+  display: none;
+}
